@@ -12,5 +12,13 @@
   "license": "ISC",
   "devDependencies": {
     "husky": "^9.1.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/404NotFound-Error/Blog_Content.git"
+  },
+  "bugs": {
+    "url": "https://github.com/404NotFound-Error/Blog_Content/issues"
+  },
+  "homepage": "https://github.com/404NotFound-Error/Blog_Content#readme"
 }
